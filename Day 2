@@ -1,0 +1,14 @@
+Day 2: One man's false positive is another man's potpourri.
+
+ANSWERS :
+
+1.What is the name of the account causing all the failed login attempts?
+==> service_admin
+2.How many failed logon attempts were observed?
+==> 6791
+3.What is the IP address of Glitch?
+==> 10.0.255.1
+4. When did Glitch successfully logon to ADM-01? Format: MMM D, YYYY HH:MM:SS.SSS
+==> Dec 1, 2024 08:54:39.000
+5. What is the decoded command executed by Glitch to fix the systems of Wareville?
+==> Install-WindowsUpdate -AcceptAll -AutoReboot
