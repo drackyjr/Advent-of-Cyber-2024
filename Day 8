@@ -1,0 +1,9 @@
+Day 8: Shellcodes of the world, unite!
+
+ANSWER ==>
+
+1. What is the flag value once Glitch gets reverse shell on the digital vault using port 4444? Note: The flag may 
+take around a minute to appear in the C:\Users\glitch\Desktop directory. You can view the content of the flag by using the 
+command type C:\Users\glitch\Desktop\flag.txt.
+
+==> AOC{GOT _MY_ACCESS_B@CK007}
