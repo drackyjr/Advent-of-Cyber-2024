@@ -1,0 +1,16 @@
+Day 14 =  Day 14: Even if we're horribly mismanaged, there'll be no sad faces on SOC-mas!
+
+Answer==>
+1.What is the name of the CA that has signed the Gift Scheduler certificate?
+==> THM
+2.Look inside the POST requests in the HTTP history. What is the password for the
+  snowballelf account?
+==> c4rrotn0s3
+3.Use the credentials for any of the elves to authenticate to the Gift Scheduler
+  website. What is the flag shown on the elves’ scheduling page?
+==> THM{AoC-3lf0nth3Sh3lf}
+4.What is the password for Marta May Ware’s account?
+==> H0llyJ0llySOCMAS!
+5.Mayor Malware finally succeeded in his evil intent: with Marta May Ware’s username and password, he can finally access the administrative console for the Gift Scheduler. G-Day is cancelled!
+ What is the flag shown on the admin page?
+==> THM{AoC-h0wt0ru1nG1ftD4y}
