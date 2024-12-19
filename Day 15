@@ -1,0 +1,23 @@
+Day 15 : Be it ever so heinous, there's no place like Domain Controller.
+
+Answers ==>
+
+1.On what day was Glitch_Malware last logged in?
+
+Answer format: DD/MM/YYYY
+
+==> 07/11/2024
+
+2.What event ID shows the login of the Glitch_Malware user?
+==> 4624
+
+3.Read the PowerShell history of the Administrator account.
+  What was the command that was used to enumerate Active Directory users?
+==> Get-ADUser -Filter * -Properties MemberOf | Select-Object Name
+
+4.Look in the PowerShell log file located in Application and Services Logs -> Windows PowerShell.
+  What was Glitch_Malware's set password?
+==> SuperSecretP@ssw0rd!
+
+5.Review the Group Policy Objects present on the machine. What is the name of the installed GPO?
+==> Malicious GPO - Glitch_Malware Persistence
