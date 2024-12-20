@@ -1,4 +1,4 @@
-# Advent of Cyber 2024 - Daily Task Solutions ✍️
+# Advent of Cyber 2024 try hack me- Daily Task Solutions ✍️
 
 Welcome to my daily upload series for the Advent of Cyber 2024! In this space, I will be sharing my solutions to the daily challenges presented in the Advent of Cyber room. Each day, I will provide detailed walkthroughs, explanations, and insights into the tasks, helping you understand the concepts and techniques involved.
 
