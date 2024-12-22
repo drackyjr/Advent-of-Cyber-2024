@@ -1,0 +1,24 @@
+Day 22: It's because I'm kubed, isn't it?
+
+Answers ==>
+1.What is the name of the webshell that was used by Mayor Malware?
+==> shelly.php
+
+2.What file did Mayor Malware read from the pod?
+==> db.php
+
+3.What tool did Mayor Malware search for that could be used to create a remote connection from the pod?
+==> nc
+
+4.What IP connected to the docker registry that was unexpected?
+==> 10.10.130.253
+
+5.At what time is the first connection made from this IP to the docker registry?
+==> 29/Oct/2024:10:06:33 +0000
+
+6.At what time is the updated malicious image pushed to the registry?
+==> 29/Oct/2024:12:34:28 +0000
+
+7.What is the value stored in the "pull-creds" secret?
+==> {"auths":{"http://docker-registry.nicetown.loc:5000":{"username":"mr.nice","password":"Mr.N4ughty","auth":"bXIubmljZTpNci5ONHVnaHR5"}}}
+
