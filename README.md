@@ -7,3 +7,8 @@ Whether you're participating in the Advent of Cyber for the first time or lookin
 Join me on this journey as we tackle the challenges together! Feel free to ask questions, share your own solutions, and engage in discussions. Let’s make the most of this learning experience and celebrate our progress in the world of cybersecurity!
 
 Stay tuned for daily updates, and happy hacking! 🤖🧑‍💻
+
+
+
+# Disclaimer:
+All solutions and walkthroughs provided in this series are strictly for educational purposes. The content is intended to help learners understand cybersecurity concepts and should not be used for unauthorized or malicious activities. All rights to the respective challenges belong to TryHackMe and the Advent of Cyber team. Any resemblance to real systems, data, or scenarios is purely coincidental and for simulation only. By following this content, you agree to use this knowledge responsibly and ethically, in compliance with applicable laws and regulations.
